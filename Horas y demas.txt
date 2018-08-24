@@ -1,0 +1,30 @@
+Emiten aproximadamente 100 facturas. 
+
+
+Honorarios medicos a pagar Pasivo
+Provision Honorarios va por producto
+
+
+35
+58
+85
+78
+
+Silvina Cremerius
+
+
+INMED
+
+CITI
+Cambiar fecha de comprobante por fecha de carga
+
+
+Semana del 13/08
+Miercoles 8/9 hs TCBA
+jueves Provision Honorarios INMED
+Viernes 1hs Condomi + .3 INMED Cap Permisos
+
+Semana 20/08
+Miercoles 8hs TCBA
+Jueves 2hs asistencia Hugo. RG3685 e IVA Compras en Columnas
+Viernes RG 3685 SP modificar fecha de comprobante por Fecha contable
