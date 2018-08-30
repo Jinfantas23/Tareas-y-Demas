@@ -1,5 +1,3 @@
-Honorarios medicos a pagar Pasivo
-Provision Honorarios va por producto
 
 Fotos:
 35
@@ -7,14 +5,14 @@ Fotos:
 85
 78
 
-Llamar Silvina Cremerius
-
 
 INMED
 
 CITI
 Cambiar fecha de comprobante por fecha de carga
 
+Honorarios medicos a pagar Pasivo
+Provision Honorarios va por producto
 
 Semana del 13/08
 Miercoles 8/9 hs TCBA
@@ -24,4 +22,12 @@ Viernes 1hs Condomi + .3 INMED Cap Permisos
 Semana 20/08
 Miercoles 8hs TCBA
 Jueves 2hs asistencia Hugo. RG3685 e IVA Compras en Columnas
-Viernes RG 3685 SP modificar fecha de comprobante por Fecha contable
+Viernes y Sabado 1.5 hs Patricia Cierre de balance.
+
+Semana 27/08
+Lunes y Martes INSRAD 16hs
+Miercoles TCBA 8Hs
+
+
+Tareas Pendientes:
+- Melodia, dar de alta Facturacion.
