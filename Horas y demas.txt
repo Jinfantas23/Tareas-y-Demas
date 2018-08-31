@@ -27,7 +27,9 @@ Viernes y Sabado 1.5 hs Patricia Cierre de balance.
 Semana 27/08
 Lunes y Martes INSRAD 16hs
 Miercoles TCBA 8Hs
-Jueves INMED 2hs Honorarios medicos a pagar y asignacion de organizaciones
+Jueves INMED 2hs Honorarios medicos a pagar y asignacion de organizaciones, Visita 3hs
+Viernes INMED Talonarios OP, MF, Resumen Banc, Retenciones, Exp Fisc SujVinc, Ganancias sobre bruto. 3Hs
+ 
 
 Tareas Pendientes:
 - Melodia, dar de alta Facturacion.
