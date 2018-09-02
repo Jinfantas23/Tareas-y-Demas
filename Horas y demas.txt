@@ -7,13 +7,6 @@ Fotos:
 
 
 INMED
-
-CITI
-Cambiar fecha de comprobante por fecha de carga
-
-Honorarios medicos a pagar Pasivo
-Provision Honorarios va por producto
-
 Semana del 13/08
 Miercoles 8/9 hs TCBA
 jueves Provision Honorarios INMED
@@ -29,9 +22,22 @@ Lunes y Martes INSRAD 16hs
 Miercoles TCBA 8Hs
 Jueves INMED 2hs Honorarios medicos a pagar y asignacion de organizaciones, Visita 3hs
 Viernes INMED Talonarios OP, MF, Resumen Banc, Retenciones, Exp Fisc SujVinc, Ganancias sobre bruto. Sectores 4Hs
-Vieres INMED 9.30 a 12.30 Cashflow + sectores 
+Vieres INMED 10 a 12.30 Cashflow + sectores 
 
  
 
 Tareas Pendientes:
 - Melodia, dar de alta Facturacion.
+
+Rechazo
+- Valores a Depositar
+- Cheque propio en cuenta de tercero
+
+
+Cliente paga
+
+- Valor a Depositar y lo deposito en cuenta propia
+- Banco rechaza y se lo devuelvo al cliente.
+
+
+Beneficiario por Razon Social
