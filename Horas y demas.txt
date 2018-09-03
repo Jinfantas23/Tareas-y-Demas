@@ -26,6 +26,7 @@ Vieres INMED 10 a 12.30 Cashflow + sectores
 
 Semana 03/09
 Domingo 02/09 Alta de Sectores 2hs
+Lunes 03/09 Configuracion de equipos, se armo el importador de productos y se comenzo a trabajar sobre los puntos de venta nuevos. 2hs
 
  
 
