@@ -29,6 +29,10 @@ Domingo 02/09 Alta de Sectores 2hs
 Lunes 03/09 Configuracion de equipos, se armo el importador de productos y se comenzo a trabajar sobre los puntos de venta nuevos. 2hs
 Se importaron los productos .5
 Martes 04/09 Se dieron de alta los nuevos puntos de venta de Resonancia 2hs
+Miercoles 05/09 Se comenzaron a preparar los importadores y a importar los cheques 1hs 0a1/2a2.5 (1.5)
+8 a 9.5hs Se dieron de alta los cheques, recibos de cobro, talonarios de recibos.
+8hs TCBA
+Jueves 10 a 14 Asistencia sobre Arciba, alta de saldos de bancos, asistencia a Diego sobre cobranzas, clientes y cuenta sellos en recibo de cobro. Asistencia a Leonardo sobre alta de Stock por recuento.
 
 
  
@@ -48,3 +52,7 @@ Cliente paga
 
 
 Beneficiario por Razon Social
+
+
+Recibos sin asistente.
+
