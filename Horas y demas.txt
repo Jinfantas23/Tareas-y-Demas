@@ -32,27 +32,15 @@ Martes 04/09 Se dieron de alta los nuevos puntos de venta de Resonancia 2hs
 Miercoles 05/09 Se comenzaron a preparar los importadores y a importar los cheques 1hs 0a1/2a2.5 (1.5)
 8 a 9.5hs Se dieron de alta los cheques, recibos de cobro, talonarios de recibos.
 8hs TCBA
-Jueves 10 a 14 Asistencia sobre Arciba, alta de saldos de bancos, asistencia a Diego sobre cobranzas, clientes y cuenta sellos en recibo de cobro. Asistencia a Leonardo sobre alta de Stock por recuento.
-
+Jueves 10 a 15 Asistencia sobre Arciba, alta de saldos de bancos, asistencia a Diego sobre cobranzas, clientes y cuenta sellos en recibo de cobro. Asistencia a Leonardo sobre alta de Stock por recuento.
+Viernes Alta de asistente de recibos 1hs
+Lunes 2.5 a 6.5 alta de puntos de venta inmed y reporte de impresion sobre OC 4
 
  
 
 Tareas Pendientes:
 - Melodia, dar de alta Facturacion.
 
-Rechazo
-- Valores a Depositar
-- Cheque propio en cuenta de tercero
-
-
-Cliente paga
-
-- Valor a Depositar y lo deposito en cuenta propia
 - Banco rechaza y se lo devuelvo al cliente.
 
-
-Beneficiario por Razon Social
-
-
-Recibos sin asistente.
 
