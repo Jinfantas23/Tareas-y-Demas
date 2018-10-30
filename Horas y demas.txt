@@ -29,18 +29,48 @@ Domingo 02/09 Alta de Sectores 2hs
 Lunes 03/09 Configuracion de equipos, se armo el importador de productos y se comenzo a trabajar sobre los puntos de venta nuevos. 2hs
 Se importaron los productos .5
 Martes 04/09 Se dieron de alta los nuevos puntos de venta de Resonancia 2hs
+
+
+
 Miercoles 05/09 Se comenzaron a preparar los importadores y a importar los cheques 1hs 0a1/2a2.5 (1.5)
 8 a 9.5hs Se dieron de alta los cheques, recibos de cobro, talonarios de recibos.
 8hs TCBA
+
 Jueves 06/09 10 a 15 Asistencia sobre Arciba, alta de saldos de bancos, asistencia a Diego sobre cobranzas, clientes y cuenta sellos en recibo de cobro. Asistencia a Leonardo sobre alta de Stock por recuento.
 Viernes 07/09 Alta de asistente de recibos 1hs
-Lunes 10/09 2.5 a 6.5 alta de puntos de venta inmed y reporte de impresion sobre OC 4
+
+Lunes 10/09 2.5 a 6.5 Alta de puntos de venta inmed y reporte de impresion sobre OC 4
 Mierciles 12/09 8hs TCBA
 Jueves 13/09 Visita a INMED 2.5
 
 Lunes 17/09
+INMED Recibos sobre con Anticipos, controlar Organizacionid 1hs
+Martes 18/09 Alta de puntos de venta, modificacion de nombres, de Talonarios. Ajuste de exposicion fiscal y workflow de cobranza 10 a 14
+INMED Se valido la importacion de saldos por comprobantes .5
 
- 
+Miercoles 19/09 Asistencia a Leo - Prueba y Ajustes 1hs
+TCBA 8hs
+
+Jueves 20/09 INMED 4hs 
+- Transferencia diferida
+- Retencion IVA y Ganancias Monotribustistas
+- Preparacion importacion de saldos 
+
+Lunes 1.3 a 2.3
+Control de alta de clientes - Control Clientes/Proveedores
+Alta de Saldos de ND de Clientes
+12 a 13.30
+Alta de empresa IM en Usuarios
+Miercoles
+13hs 1hs configuracion IVA Limp y Segur junto con SUSS.
+2hs Agregado beneficiario en todas las impresiones de cheque mas modificacion SP para que tome como beneficiario la razon social y no el nombre
+Jueves
+00 a 5.30 Alta de clientes y saldos de clientes IM y RESO, preparacion Importacion Saldos Proveedores
+Asistencia liquidacion Ret IVA .3
+Viernes
+1hs importacion de saldos RESO
+Sujetos .3
+
 
 Tareas Pendientes:
 - Melodia, dar de alta Facturacion.
