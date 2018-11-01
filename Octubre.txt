@@ -50,8 +50,15 @@ Jueves 25-10
 
 Viernes
 .5 alta de talonarios de recibos fadim
-1.5 actualizacion de imputacion de facturas de inicio
+2 actualizacion de imputacion de facturas de inicio
 
 Lunes 29-10
 INSRAD 8hs
 INMED 3hs actualizacion imputacion de productos 
+
+Martes 30-10
+INSRAD 8hs
+
+Miercoles 31-10
+TCBA 9hs
+INMED 1hs Modificacion de Tipo de Operacion en comprobantes de compra y ventas
