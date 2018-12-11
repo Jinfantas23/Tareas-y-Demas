@@ -2,11 +2,8 @@ Jueves 01/11
 INMED .5 Modificacion retencion sobre cobranza
 INMED 2 Exportacion con formato de plan de gestion.
 
-Martes 06/11
-Reunion de Planificacion con Mirna
-
 Miercoles 07/11
-Problemas con ARCIBA Notas de Credito (Anduvo solo)
+Problemas con ARCIBA Notas de Credito (Anduvo solo) .5
 Avance informe solicitudes con campo de sector 1hs
 
 Jueves 08/11
@@ -14,3 +11,26 @@ Relevamiento de informacion MN y FJR 9 a 11.30
 
 Viernes 09/11
 Correccion de Retenciones en OP de IM + Adicion de IVA en Exposicion fiscal SICORE 2hs
+
+Miercoles 14/11
+Creacion de informe Solicitud por Sector 2hs
+
+Jueves 15/11
+Relevamiento de informacion OMENDUS 10 a 11.30
+
+Viernes16/11
+Visita a INMED 1.5 Tareas Tesoreria y Contaduria
+
+Jueves 22/11
+INMED Asistencia a Usuarios, modificacion de retencion de OP, cambio de cuentas en OP, Modificacion de tipo de comprobante impositivos, armado de formato de productos. 2hs
+
+Viernes 23/11
+INNMED Ajuste impresion Galicia IV 1hs
+Visita a Fundacion 14 a 16
+
+
+Lunes26-27/11
+Visita a INSRAD 16hs
+
+Jueves 29/11
+TCBA Libro Diario 5hs
