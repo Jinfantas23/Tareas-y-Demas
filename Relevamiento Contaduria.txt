@@ -1,0 +1,39 @@
+Contaduria - Julia, Andrea/Vanesa (Permiso para modificar todos)
+
+Solo cargan asientos y ajustes.
+
+Informe por centro de costos. Las cuentas de resutado las tienen dividida en diferentes sectores por CC.
+Centro de costos en netamente por servicios.
+Honorarios Medicos
+	- Lo idea es que la facturacion migre discriminada por servicios y por impuestos (al 21/10.5/exento). 
+	- Al momento de cargar el recibo se aplica por servicio.
+	- Hay que hacer un informe donde salga lo cobrado de ese mes, discriminado por servicio y a cada servicio se le aplica un porcentaje que sale de los contratos con los medicos.
+	- Ese informe muestra la informacion de los servicios cobrados segun alicuota, con un monto total. No es necesaria la discriminacion por item.
+	- ! Se puede crear un maestro de contratos donde se cree la alicuota por servicio y tome el mas nuevo en cuanto a fecha de alta.
+Usan cuadro de resultado con dimensiones
+Usan Balance por Mes.
+Deudores (comunes, prestadores, distribuidor). La division es a nivel contable, cada uno con una cuenta. 
+	- Distribuidor es un cliente/una cuenta. 
+	- Prestadores es la cuenta segun la configurada en el cliente y punto de venta. Puede ser la DxV comun o DxV Prestador por ejemplo. Solo facturas de FG, RadioFarmacia.
+A fin de año se hace una provision del año anterior, por lo que la carga de la factura de compra debe tener la opcion de cargar contra la provision en un item.
+!Ver la posibilidad de transaccionar inversiones. Compra de cuotas partes a un valor de origen, se rescata y tengo una rentabilidad al valor de origen. Se hace un asiento reconociendo la ganancia.
+!Ver la posibilidad de que al momento de mandar la mercaderia a los servicios haga un asiento de resultados del servicio al que se le envia contra la cuenta insumos.
+
+Ver como activar la importacion. Usar mercaderia en transito, para dar de alta el activo. Ver la produccion y costear segun producto terminado.
+
+Usuarios que controlen solo el stock de radiofarmacia. Y generen solo informacion contra este deposito. Tesoreria opera contra una cuenta puente y se activa al momento del despacho de aduana.
+Ver como valorizar sin modulo de produccion el costo del producto terminado. Circuito de produccion.
+
+Iva compras
+Iva ventas
+Sicore
+CITI
+IIBB exento
+Retencion SUSS
+
+Retienen ganancias y SUSS
+
+Usuario para el estudio con liquidacion de impuestos. Acceso de consulta a toda la administracion.
+
+Relevamiento parte de ventas de Aldo. Facturacion de RadioFarmacia
+- Queda en stand by

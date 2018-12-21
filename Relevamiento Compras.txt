@@ -1,0 +1,55 @@
+Compras e Inventario - Aldo-Gabriela-Cristian
+
+Solicitud interna por Sector, generadas por sector. 
+!Quieren ver el consumo por maquina.
+!Dentro de cada documento de Solicitud crear un campo que determine a que maquina corresponde.
+!Documento de cancelacion.
+!Hacer un deposito por Sector.
+PET - Hay dos equipos PET1 y PET2.
+TOMOGRAFIA -  1 Solo
+RESONANCIA - 1.5T y 3T. 
+ACADEMIA - 1 solo
+ECOGRAFIA - 1 Solo
+MAMOGRAFIA - 1 Solo
+GAMMA - 1 Solo
+GINECOLOGIA - 1 Solo
+I. LEZICA - 1 Solo
+
+Depositos
+ - 1 PET general
+ - 2 Radiofarmacia
+ - 3 Resonancia
+ - 4 Ecografia
+ - 5 Gamma
+ - 6 Academia  
+ - 7 Mamografia
+ - 8 Ginecologia
+
+Solicitud de requerimiento (para consumos generales). Autorizacion solo jefe de sector.
+
+Cada Sector tiene una cuenta contable. Ver la distribucion por producto (Caso INSRAD)
+
+Tener un reporte por solicitudes.
+Tener un reporte de costos por consumo.
+
+Hacer un documento de baja si falto completar el pedido.
+
+Se realiza presupuesto via mail o tambien se emite OC directamente.
+El presupuesto se autoriza por Andrea de Contabilidad. Puede ser con firma digital o con un documento de PreOrden y que la OC impacte contra la PreOrden.
+Se envia la OC por mail.
+Llega la mercaderia con la factura o el remito. Se hace recepcion
+Se carga la factura.
+Hoy contabilidad da el OK porque la imputacion contable lo define Compras. Pero el proceso va a ser el mismo.
+
+La OC puede salir en dolares y se carga la cotizacion a la hora de la carga de la factura.
+Factura en Dolares se carga en pesos.
+Analizar la posibilidad de cargar en dolares.
+
+Valorizacion de insumos a ultima compra.
+Armar un informe de valorizacion que tenga stock final (fecha hasta) valuado a ultima compra. Analizar la posibilidad de que sea contra OC.
+
+Informe de consumos mensuales.
+
+Ver la posibilidad de configurar Picking (ya tienen pistola y codigos de barra).
+
+Conversar con Ignacio el manejo de CC para cuentas del activo, actualmente tienen dimensiones solo para gastos.

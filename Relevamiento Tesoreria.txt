@@ -1,0 +1,38 @@
+Tesoreria - Carla y Nilda (Ambas mismas tareas)
+Rendicion de Cajas. 
+Facturacion presenta una rendicion diaria (3/4 x dia) que Tesoreria valida. Y en ese momento ingresa la caja.
+Por el momento no configurar validacion pero tenerlo en cuenta.
+
+Depositan la recaudacion en el banco con una orden de egreso. MF
+
+Pagos con cupones. Estan pendientes y se acreditan contra conciliacion. Se acreditan pos carga de impuestos en contabilidad, quien tesoreria le envia el extracto.
+
+Chequeras.
+
+Cheques diferidos.
+Impresion de cheques (Patagonia - Nacion - Ciudad - Provincia).
+
+Orden de ingreso = Documento donde solo ingresa plata, no esta vinculado a ningun procedimiento previo.
+Orden de egreso
+ - Fondo fijo/caja chica. Se cargan los gastos como egresos (con facturas A/B). Se hace la rendicion de fondo fijo donde se tildan todos esos comprobantes contra fondo fijo a rendir. Y despues se hace una OP de cheque (que se cobra del banco) contra fondo fijo a rendir. Simplificar!
+ - Gastos a Rendir para Viaticos.
+ - Caja en dolares/Reales/Euros. Moneda Secundaria. Para Gastos de cursos y cosas en el exterior. Es Moneda, no banco.
+
+Administracion de cheques propios. Situacion de Cheques y Cupones.
+
+Cobranza.
+Impresion de Cobranza. Motoquero usa recibo distinto al de tesoreria. Hay 3 talonarios en total. 2 manuales de los motoqueros y uno imprimible para tesoreria. 
+Cta Cte de clientes. 
+Carga de recibos que se genere solo el numero de recibo.
+Composicion de cobranza - Listado de cobranzas por dia totalizado a la "fecha hasta".
+Composicion de Saldos con servicios.
+
+Pagos.
+Composicion de saldos de proveedores.
+Pago de cuotas contra cuenta puente.
+
+Consultan Mayor para bancos y caja. Actualmente el arqueo no le da ya que las rendiciones no cortan al mismo momento que facturacion sigue cargando informacion.
+
+Informe de Posicion sobre cuentas de banco con alertas de minimos.
+
+Carga de facturas de compra del exterior y pago en moneda extranjera. Se pagan en pesos al tipo de cambio del dia.
