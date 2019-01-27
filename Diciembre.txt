@@ -2,10 +2,45 @@ Martes 04/12
 TCBA 009 Ajuste en las ctas ctes de Tania 5hs
 
 Miercoles 05/12
-Reunion de planificacion Migracion teamplace 1hs
-INMED .5 cambio de imputacion de Ordenes de Pago de Vasculares
+INMED 1 cambio de imputacion de Ordenes de Pago de Vasculares
 
 Jueves 06/12
 INMED Armado de ARCIBA NC 4hs
 
+Martes 11/12
+INMED .5 anular OP con cheques que habian cambiado el estado de situacion.
 
+Miercoles 12/12
+Fundacion Relevamiento Tesoreria 2hs
+INMED .5 anulacion OP con valores usados posteriormente.
+
+Jueves 13/12
+Fundacion Relevamiento Compras 2.5
+INMED 1 hs Correccion OP Silvana mal ingresadas.
+INMED .5 hs Se eliminaron cheques de saldos iniciales.
+
+Viernes 14/12
+Arme doc de relevamiento 3hs
+
+Lunes17/12
+Liquido Producto Mayo (lacba, FJR, mn) 2.5hs
+Junio (emade, lacba, mn, fjr) 2.5hs
+
+Martes 18/12
+Liquido Producto Junio (Prevent Cord. Cardio Sport) 1hs
+
+Jueves 20/12
+FCDN Relevamiento Contaduria 12.30 a 16 3.5
+
+Viernes 21/12
+TCBA N° asiento en Libro Diario y generacion de Cierre y Apertura. 4hs
+
+Miercoles 26/12
+FCDN Generacion de archivos de relevamiento 3hs
+
+Jueves 27/12
+Documentos de Relevamiento 2hs FCDN
+Presentacion Sistema FJR 2.5
+
+Lunes 31/12
+Correccion Liquido Agosto 3hs
