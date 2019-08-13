@@ -17,7 +17,7 @@ Informes de Stock Valorizados para Logistica y para Costeo INMED 3hs
 
 Miercoles 16/01
 INMED Hugo y Comprobantes Sigs 2hs
-FJR Ajustes de base y alta de usuarios 3.5
+FJR Ajustes de base y alta de usuarios 4
 
 Jueves 17/01
 FJR 12 a 13 y 14 a 18 Limpieza Plan de Cuentas/Organizaciones/Productos 5hs
@@ -27,7 +27,7 @@ INMED Armado de archivo de Saldos iniciales 3hs
 
 Martes 22/01
 FJR 10 a 13 Importacion de Plan de Cuentas 3hs
-18 a 20 Ajustes de Talonarios, Configuracion de retenciones 2hs
+17 a 20 Ajustes de Talonarios, Configuracion de retenciones 3hs
 
 Miercoles 23/01
 FJR Importacion Clientes, productos 3hs 10 a 13
@@ -37,7 +37,7 @@ Elepants 15 a 17 configuracion de circuitos 2hs
 Jueves 24/01
 FJR Ajuste de equipos 1hs 0 a 1
 FJR Visita presentacion prueba .5
-INMED Sector en asistente de baja de solicitud y agregado de facturas de venta en workflow de pagos para compensaciones. 2hs
+INMED Sector en asistente de baja de solicitud y agregado de facturas de venta en workflow de pagos para compensaciones. 2.5hs
 INMED Cargas de saldos iniciales 2hs 16 a 18
 
 Viernes 25/01
@@ -45,4 +45,20 @@ INMED 11.30 a 16.30 con almuerzo. 4hs
 
 
 Domingo 27/01
-INMED Preparacion de Excel con diferencias en saldos iniciales para que lo analice contaduria y listo para importar 1hs
+INMED Preparacion de Excel con diferencias en saldos iniciales para que lo analice contaduria y listo para importar. Tareas tomadas de la ultima visita 3hs
+
+Lunes 28/01
+INSRAD 8hs
+Elepants Configuracion de Procedimiento 3hs
+
+Martes 29/01
+INSRAD 8hs
+Elepants Configuracion de Procedimiento, alta de usuario y equipo de pruebas 3.5hs
+
+Miercoles 30/01
+Elepants - Pruebas, comunicacion con Gonzalo revisando los procedimientos de Depositos estimado, alta de nuevo documento y pruebas. 3hs
+FCDN - 1.5hs Alta Usuarios y control basico de equipos.
+
+Jueves 31/01
+Elepant. Modificacion al circuito de transacciones asociadas y pruebas 1hs
+Elepant Reunion con gonzalo 4hs 14 a 18
